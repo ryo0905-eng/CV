@@ -13,25 +13,23 @@
 
 ## 概要
 
-
 製造業×データサイエンスを推進しています。電子部品業界において、生産工場における歩留改善、生産性向上、コストダウンを約10年。うち、海外工場約２年。
 統計解析ツールJMP, BIツール(power BI, Spotfire), python, SQLを駆使したデータドリブンな意思決定を得意としています。
 
 ## スキル
 
-
 - Python(Pandas, Numpy, matplotlib, Seaborn, Scipy, scikit-learn, Pycaret)
 - BI(Spotfire, powerBI)
 - データサイエンス, 統計, 機械学習
 - SQL
-- 歩留まり改善
+- 歩留まり改善, 生産性向上, 原価低減
 - プロジェクトマネジメント
+- プロセス開発
 - DoE(実験計画法)
 - 異文化理解
 - SEM/EDX
 - 5ゲン主義
-- FMEA
-- FTA
+- QMS, FMEA, FTA
 
 <div style="page-break-before:always"></div>
 
