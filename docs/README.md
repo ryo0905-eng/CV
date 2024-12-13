@@ -5,6 +5,9 @@
 - Address: Malaysia
 - Email: piaxv95@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/ryo-matsuoka-978005216/](https://www.linkedin.com/in/ryo-matsuoka-978005216/)
+- Github: [https://github.com/ryo0905-eng/CV](https://github.com/ryo0905-eng/CV)
+
+この職務経歴書はGithubで公開・バージョン管理しています。
 
 ## 概要
 
@@ -12,6 +15,23 @@
 
 製造業×データサイエンスを推進しています。電子部品業界において、生産工場における歩留改善、生産性向上、コストダウンを約10年。うち、海外工場約２年。
 統計解析ツールJMP, BIツール(power BI, Spotfire), python, SQLを駆使したデータドリブンな意思決定を得意としています。
+
+## スキル
+
+---
+
+- Python(Pandas, Numpy, matplotlib, Seaborn, Scipy, scikit-learn, Pycaret)
+- BI(Spotfire, powerBI)
+- データサイエンス, 統計, 機械学習
+- SQL
+- 歩留まり改善
+- プロジェクトマネジメント
+- DoE(実験計画法)
+- 異文化理解
+- SEM/EDX
+- 5ゲン主義
+
+<div style="page-break-before:always"></div>
 
 ## 職歴
 
@@ -80,23 +100,8 @@
 
 ---
 
-- 2012 – 2014 岡山大学大学院 自然科学研究科 電子情報システム工学専攻
-- 2008 – 2012 岡山大学 工学部 電気電子工学科
-
-## スキル
-
----
-
-- Python(Pandas, Numpy, matplotlib, Seaborn, Scipy, scikit-learn)
-- BI(Spotfire, powerBI)
-- データサイエンス, 統計, 機械学習
-- SQL
-- 歩留まり改善
-- プロジェクトマネジメント
-- DoE(実験計画法)
-- 異文化理解
-- SEM/EDX
-- 5ゲン主義
+- Apr 2012 - Mar 2014: 岡山大学大学院 自然科学研究科 電子情報システム工学専攻
+- Apr 2008 - Mar 2012: 岡山大学 工学部 電気電子工学科
 
 ## 保有資格/ 認定証
 
@@ -105,6 +110,7 @@
 - マナビDX Quest (Life is Tech！Quest):  
 2024年度 ケーススタディ教育プログラムGold修了証 (AIの実装を通じたDXプロジェクトの疑似体験)
 - Data scientist associate(Datacamp 2024)
+- オンラインプログラミングスクール デイトラpythonコース修了(2024)
 - FP3級(2024)
 - マナビDX Quest:  
 2023年度 第2ターム 地域企業協働プログラム修了証(データ分析を通じたデータ・デジタル技術の活用可能性の設計/初期的な検証)
@@ -121,6 +127,5 @@
 
 ---
 
-- TOEIC 785点
+- TOEIC 785点 (2024)
 - 海外工場駐在 約２年
-
