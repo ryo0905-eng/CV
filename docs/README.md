@@ -1,15 +1,21 @@
 # 松岡　良
 
+Address: Malaysia  
+✉️ Email: piaxv95@gmail.com  
+🤝 LinkedIn: [https://www.linkedin.com/in/ryo-matsuoka-978005216/](https://www.linkedin.com/in/ryo-matsuoka-978005216/)
+
+## 概要
+
  製造業✖️データサイエンスを推進しています。電子部品業界において、生産工場における歩留改善、生産性向上、コストダウンを約10年。うち、海外工場約２年。
-統計解析ツールJMP、power BI,spotfireなどのBIツール、python(Pandas, Numpy, matplotlib, Seaborn, Scipy, Scikit-learn, Pycaret**),**SQLを駆使したデータドリブンな意思決定を得意としています。
+統計解析ツールJMP, BIツール(power BI, Spotfire), python, SQLを駆使したデータドリブンな意思決定を得意としています。
 
-# Experience
+## 職歴
 
-## NGKエレクトロデバイス株式会社
+### NGKエレクトロデバイス株式会社
 
 Full-time . 1 years 9 months
 
-### **Quality control manager (マレーシア)**
+#### **Quality control manager (マレーシア)**
 
 (Mar 2024 - Present ) . 9 months
 
@@ -20,26 +26,26 @@ Full-time . 1 years 9 months
 - 製造プロセスにおけるコスト管理・品質見える化システムを構築。要件定義からリリースまで一気通貫で実施。SQLとpythonを用いてETLパイプラインを構築し、BIツール(Spotfire)でダッシュボードを作成。
 - 機械学習による新製品の加工条件選定システムを構築。特徴量の選択、前処理、予測モデルの選定、交差検証による精度確認、予測までプロトタイピングを実施。
 
-**Skills : python(Pandas, Numpy, matplotlib, Seaborn, Scipy, Scikit-learn, Pycaret), SQL,BI(Spotfire), データサイエンス, Machine learning**
+> **Skills:** python(Pandas, Numpy, matplotlib, Seaborn, Scipy, Scikit-learn, Pycaret),SQL, BI(Spotfire), データサイエンス, Machine learning
 
-### 生産技術エンジニア (山口)
+#### 生産技術エンジニア (山口)
 
 (Apr 2023 - Feb 2024) . 10 months
 
 - 新規無電解めっきプロセスの開発プロジェクトを担当。液メーカーの選定、基礎技術評価、プロトタイプラインの構想を実施。
 - 歩留まり改善に向けたデータ分析業務に従事。pythonを用いて工程データに対して統計的仮説検定、回帰分析など各種分析を実施。不良の要因を可視化、改善を推進。
 
-**Skills : プロジェクトマネジメント, プロセス開発, python(Pandas, Numpy, matplotlib, Seaborn, Scipy, scikit-learn), 統計, データサイエンス, Machine learning**
+> **Skills:** プロジェクトマネジメント, プロセス開発, python(Pandas, Numpy, matplotlib, Seaborn, Scipy, scikit-learn), 統計, データサイエンス, Machine learning
 
 ---
 
-## 株式会社岡山村田製作所
+### 株式会社岡山村田製作所
 
-Full-time . 8 years
+Full-time 8 years
 
-### **製造技術・品質管理エンジニア (岡山)**
+#### **製造技術・品質管理エンジニア (岡山)**
 
-(Jun 2022 - Oct 2022) . 10 months
+(Jun 2022 - Oct 2022) 10 months
 
 担当製品：セラミック多層LCフィルタ
 
@@ -51,9 +57,9 @@ Full-time . 8 years
 
 **Skills :** QMS,歩留まり改善, プロジェクトマネジメント, データ分析, SEMEDX, 5ゲン主義
 
-### **Process engineer ( シンガポール拠点への短期派遣)**
+#### **Process engineer ( シンガポール拠点への短期派遣)**
 
-Jun 2021 -  Dec 2021) . 1 year
+(Jun 2021 -  Dec 2021) . 1 year
 
 担当製品：積層セラミックコンデンサ MLCC
 
@@ -63,11 +69,11 @@ Jun 2021 -  Dec 2021) . 1 year
 
 - ローカル社員と協働し、プロセス起因の不具合発生率を100ppm→0ppmに削減。
 
-**Skills :** 歩留まり改善, 英語, 異文化理解
+> **Skills:** 歩留まり改善, 英語, 異文化理解
 
-### 製造技術エンジニア (岡山)
+#### 製造技術エンジニア (岡山)
 
-Apr 2014 -  Dec 2020) . 6 year
+(Apr 2014 -  Dec 2020)  6 years
 
 担当製品：セラミック多層LCフィルタ
 
@@ -78,46 +84,40 @@ Apr 2014 -  Dec 2020) . 6 year
 - 新規めっき加工部材の選定、ライフ限界の基礎データ取得によるライフ延長によるコストダウンを実行。
 - 統計解析ソフトJMPを用いた設備データの分析、実験計画法をもちいた要因スクリーニング実験により、不良の真因を早期解明。原価低減・歩留まり向上と合わせて年間約１億円のコストダウンを達成。
 - 工程トラブルシューティング、FMEAの作成
-- 
 
-**Skills :** プロジェクトマネジメント, 歩留まり改善, OJT, 実験計画法, 統計, データ分析, FMEA
+> **Skills :** プロジェクトマネジメント, 歩留まり改善, OJT, 実験計画法, 統計, データ分析, FMEA
 
----
+## 学歴
 
-# Contact
+2012 – 2014 岡山大学大学院 自然科学研究科 電子情報システム工学専攻
+2008 – 2012 岡山大学 工学部 電気電子工学科
 
----
+## スキル
+- Python(Pandas, Numpy, matplotlib, Seaborn, Scipy, scikit-learn)
+- BI(Spotfire, powerBI)
+- データサイエンス, 統計, 機械学習
+- SQL
+- 歩留まり改善
+- プロジェクトマネジメント
+- DoE(実験計画法)
+- 異文化理解
+- SEM/EDX
+- 5ゲン主義
 
-✉️ **Email: piaxv95**@gmail.com
+## 保有資格/ 認定証
+- マナビDX Quest (Life is Tech！Quest) ：2024年度 ケーススタディ教育プログラムGold修了証 (AIの実装を通じたDXプロジェクトの疑似体験)
+- Data scientist associate(Datacamp 2024)
+- FP3級(2024)
+- マナビDX Quest：2023年度 第2ターム 地域企業協働プログラム修了証(データ分析を通じたデータ・デジタル技術の活用可能性の設計/初期的な検証)
+- G検定(JDLA Deep Learning for GENERAL 2023#5)
+- python3 エンジニア認定データ分析試験(2023)
+- マナビDX Quest：2023年度 第1ターム ケーススタディ教育プログラムGold修了証 (AIの実装を通じたDXプロジェクトの疑似体験)
+- ITパスポート(2023)
+- 簿記３級(2023)
+- Supervised Machine Learning: Regression and Classification (Coursera 2023)
+- 普通自動車免許
 
-🤝 **LinkedIn:** [https://www.linkedin.com/in/ryo-matsuoka-978005216/](https://www.linkedin.com/in/ryo-matsuoka-978005216/)
+## 語学
+TOEIC 785点
 
-# Education
-
----
-
-<aside>
-<img src="https://www.notion.so/icons/graduate_gray.svg" alt="https://www.notion.so/icons/graduate_gray.svg" width="40px" /> 岡山大学大学院
-
-自然科学研究科電子情報システム工学専攻
-2012 – 2014
-
-</aside>
-
-<aside>
-<img src="https://www.notion.so/icons/graduate_gray.svg" alt="https://www.notion.so/icons/graduate_gray.svg" width="40px" /> 岡山大学
-
-工学部 電気電子工学科
-2008 – 2012
-
-</aside>
-
-# スキル
-
----
-
-[Skills](%E6%9D%BE%E5%B2%A1%20%E8%89%AF%2015acb70020ae80c6b50edb1ba2bc8b96/Skills%2015acb70020ae81e0b08acab7e375302b.csv)
-
-[Untitled](%E6%9D%BE%E5%B2%A1%20%E8%89%AF%2015acb70020ae80c6b50edb1ba2bc8b96/Untitled%2015acb70020ae8158acd1fdd81d5117bd.csv)
-
-[Untitled](%E6%9D%BE%E5%B2%A1%20%E8%89%AF%2015acb70020ae80c6b50edb1ba2bc8b96/Untitled%2015bcb70020ae80ea8a6cd9d05b8c228d.csv)
+海外工場駐在 約２年
