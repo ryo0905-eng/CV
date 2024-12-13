@@ -1,12 +1,9 @@
 # 松岡　良
 
-製造業✖️データサイエンスを推進しています。電子部品業界において、生産工場における歩留改善、生産性向上、コストダウンを約10年。うち、海外工場約２年。統計解析ツールJMP、power BI,spotfireなどのBIツール、python(Pandas, Numpy, matplotlib, Seaborn, Scipy, Scikit-learn, Pycaret**),**SQLを駆使したデータドリブンな意思決定を得意としています。
-
-</aside>
+ 製造業✖️データサイエンスを推進しています。電子部品業界において、生産工場における歩留改善、生産性向上、コストダウンを約10年。うち、海外工場約２年。
+統計解析ツールJMP、power BI,spotfireなどのBIツール、python(Pandas, Numpy, matplotlib, Seaborn, Scipy, Scikit-learn, Pycaret**),**SQLを駆使したデータドリブンな意思決定を得意としています。
 
 # Experience
-
----
 
 ## NGKエレクトロデバイス株式会社
 
