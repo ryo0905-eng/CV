@@ -2,14 +2,15 @@
 
 ## 基本情報
 
-- 最終更新日: 2024-12-14
+- 最終更新日: 2025-04-11
 - Name: 松岡 良
 - Address: Malaysia
 - Email: piaxv95@gmail.com
+- ポートフォリオサイト: [https://ryo-aihub.com](https://ryo-aihub.com)
 - LinkedIn: [https://www.linkedin.com/in/ryo-matsuoka-978005216/](https://www.linkedin.com/in/ryo-matsuoka-978005216/)
 - Github: [https://github.com/ryo0905-eng/CV](https://github.com/ryo0905-eng/CV)
 
-この職務経歴書はMarkdown言語とCSSで作成し、Githubで公開・バージョン管理しています。
+この職務経歴書はMarkdown言語で作成し、Githubで公開・バージョン管理しています。
 
 ## 概要
 
