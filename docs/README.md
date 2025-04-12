@@ -10,8 +10,6 @@
 - LinkedIn: [https://www.linkedin.com/in/ryo-matsuoka-978005216/](https://www.linkedin.com/in/ryo-matsuoka-978005216/)
 - Github: [https://github.com/ryo0905-eng/CV](https://github.com/ryo0905-eng/CV)
 
-この職務経歴書はMarkdown言語で作成し、Githubで公開・バージョン管理しています。
-
 ## 概要
 
 **「現場で使えるDX」を、現場と一緒に作る人材**
@@ -151,3 +149,5 @@
 - 希望勤務地：第一志望は関西圏。条件が合えば関東圏、福岡、名古屋、広島、岡山も前向きに検討可能
 - 希望働き方：**週1回以上のリモートワークを含むハイブリッド勤務**を希望（フル出社のみは除外）
 - 転職希望時期：なるべく早期（マッチするポジションがあれば柔軟に調整可能）
+
+この職務経歴書はMarkdown言語で作成し、Githubで公開・バージョン管理しています。
