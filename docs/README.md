@@ -2,7 +2,7 @@
 
 ## 基本情報
 
-- 最終更新日: 2025-04-12
+- 最終更新日: 2025-04-14
 - Name: 松岡 良
 - Address: Malaysia
 - Email: piaxv95@gmail.com
